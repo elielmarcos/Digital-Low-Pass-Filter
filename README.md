@@ -5,7 +5,7 @@
  
  Frequência de amostragem: 1200Hz;
  
- Frequência de corte: 80Hz;
+ Frequência de corte: 70Hz;
  
  Ordem: 10ª;
  
